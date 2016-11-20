@@ -1,3 +1,5 @@
 # cs50final
 we mfa now boiz
-test
+Larry Liang
+Deedee Jiang
+Daniel Chen
